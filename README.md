@@ -29,7 +29,7 @@ To-Do app will load into default layout.
 
 Tech Stack: Javascript,HTML and maybe CSS
 Libraries/Frameworks: None 
-Program IDE:
+Program IDE: Visual Studio Code
 
 Future Improvements: 
 -Cleaner UI
