@@ -19,7 +19,7 @@ Features
 
 How to Run : 
 To-Do app will load into default layout.
-1. + will be present to add tasks which will open into different options (voice, text etc.)
+1. "+" will be present to add tasks which will open into different options (voice, text etc.)
 2. Users will click a task and then have the option to edit, break etc.
 3. Tasks will be in categories -  To do, In progress, Almost there and Done. Like Jira people can move it from one category.
 4. Brain Dump will allow for just putting thoughts on just click and start typing/talking.
