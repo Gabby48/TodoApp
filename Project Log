@@ -7,3 +7,25 @@ The next step after planning will be a bit of research on how to go about things
 Planned how to do will start on monday/tuesday.
 Name will be Unscattered - Todo App - ADHD to represent the clarity of "scatter brain".
 I will do Version 0 first which will only have basic functionality.
+
+24/04/26
+Starting working on V0 at the beginning of this week (20/04/26).
+Now have a very basic todo app where you can add tasks, see them displayed and have them removed.
+
+Things I found difficult
+Difficulties faced when connectng javascript and html especially when starting to form a list that will display.
+This was resolved by document.createElement method.
+
+Difficulties also arised when trying to ensure I could submit taks not only via the submit button but also via the enter button. I was trying to use the listerner event already created for the button but needed a separate one. 
+I reduced inneficiencies here by creating an add task function. further issues came from trying to utilise a separate input to recognise the enter button. This can be done from the same input.
+This part was much more difficult than expected.
+
+Last thing I found difficult was removing tasks via checkbox tick. Sometimes it would remove the whole list of tasks at first or just do nothing. What helped is to actually next the checkbox asociated as a child of the task that way I could use target closest to in the events method to exclusively remove the right one.
+
+What I enjoyed
+I relaly enjoyed working through the problem step by step and my approach of only looking up correct syntax to solve one aspect of things instead just trying to copy paste from a tutorial.
+
+Next Steps
+Pursue V0 for another project, when I come back to this one then start first by implementing one more advanced feature at a time.
+Then making it look nice with CSS. 
+Then optimizing the code/refactoring.
